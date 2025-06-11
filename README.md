@@ -2,7 +2,7 @@
 <!Doctype HTML
 <html>
 <head>
-    <title>CHILATAKITA</title>
+    
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
